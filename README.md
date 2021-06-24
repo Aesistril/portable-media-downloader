@@ -1,6 +1,9 @@
 # portable-youtube-downloader
 A portable youtube downloader with linux and windows support. Download binary package from [here](https://github.com/KBHamster/portable-youtube-downloader/releases) and run it. Single file, no installation, no depencities!
 
+## MacOS Support
+I'm not giving any support please go to app store and download some 50$ spyware filled youtube downloader made with electron
+
 ## Compiling (for devs)
 The final result will be only compatilable with the os you used to compile it. For example if you compile it on linux then the final result will be only compatilable glorious penguin os.
 
@@ -28,6 +31,3 @@ Once it finishes installing you can compile it by this command `python3.9 -m PyI
 
 ### Compiling on Micro$oft Winblow$
 [This section is not written yet]
-
-## MacOS Support
-I'm not giving any support please go to app store and download some 50$ spyware filled youtube downloader made with electron
