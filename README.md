@@ -1,5 +1,5 @@
-# portable-youtube-downloader
-A portable youtube downloader with linux and windows support. Download binary package from [here](https://github.com/KBHamster/portable-youtube-downloader/releases) and run it. Single file, no installation, no depencities!
+# portable-media-downloader
+A portable media downloader with 1000+ website support. Download binary package from [here](https://github.com/KBHamster/portable-media-downloader/releases) and run it. Single file, no installation, no depencities!
 
 ## MacOS Support
 I'm not giving any support please go to app store and download some 50$ spyware filled youtube downloader made with electron
