@@ -14,7 +14,7 @@ audioExtList = ['aac', 'm4a', 'mp3', 'wav', 'flac', 'opus', 'ogg']
 videoExtList = ['mp4', 'flv', 'webm', 'mkv', 'avi']
 filetype = ''
 prog = '3'
-curr = '0.1'
+curr = '0.2'
 ver_url = 'https://github.com/yigitayaz262/portable-media-downloader/raw/master/curr-version'
 
 latest = urlopen(ver_url).read()
