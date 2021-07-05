@@ -1,3 +1,6 @@
+# CAUTION: THIS PROJECT HASN'T DONE YET. PLEASE DOWNLOAD AFTER THIS MESSAGE GETS REMOVED
+
+
 # portable-media-downloader
 A portable media downloader with 1000+ website support. Download binary package from [here](https://github.com/KBHamster/portable-media-downloader/releases) and run it. Single file, no installation, no depencities!
 
