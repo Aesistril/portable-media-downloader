@@ -1,3 +1,5 @@
+# Windows support currently not available due a bug but it will be released soon
+
 # portable-media-downloader
 A portable media downloader with 1000+ website support. Download binary package from [here](https://github.com/KBHamster/portable-media-downloader/releases) and run it. Single file, no installation, no depencities!
 
