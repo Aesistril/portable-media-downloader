@@ -24,10 +24,10 @@ latest = latest[:-1]
 print(latest)
 
 if osname == 'Windows':
-    osbinary = 'downloader.zip'
+    osbinary = 'downloader-win.zip'
 
 if osname == 'Linux':
-    osbinary = 'downloader'
+    osbinary = 'downloader-linux'
 
 psg.LOOK_AND_FEEL_TABLE['Dark_Minimalist'] = {'BACKGROUND': '#212324', 
                                         'TEXT': '#FFFFFF', 
