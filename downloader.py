@@ -24,7 +24,7 @@ latest = latest[:-1]
 print(latest)
 
 if osname == 'Windows':
-    osbinary = 'downloader.exe'
+    osbinary = 'downloader.zip'
 
 if osname == 'Linux':
     osbinary = 'downloader'
